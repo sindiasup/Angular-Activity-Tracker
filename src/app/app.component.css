@@ -1,0 +1,9 @@
+.main-div {
+  display: table;
+  margin: auto;
+}
+
+.selected {
+  text-decoration: line-through;
+  color: red;
+}
